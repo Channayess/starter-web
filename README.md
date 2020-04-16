@@ -1,5 +1,5 @@
 # Starter Web Project
-   This is to demonstrate Git and Github work.
+   This is to demonstrate Git and Github work. Adding a line for rebasing example!
 
 ## Introduction
    Git is a version control tool.
