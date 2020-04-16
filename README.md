@@ -12,3 +12,6 @@
 
 ## How to Contribute
    By adding personalized recommendations.
+
+## Copyright
+   Copyright 2020 to Git Training
