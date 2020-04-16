@@ -11,7 +11,7 @@
    Once repositeries are ready.
 
 ## How to Contribute
-   By adding personalized recommendations.
+   Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
-   Copyright 2020 to Git Training
+   Copyright @2020 to Git Training
