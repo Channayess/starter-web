@@ -8,7 +8,7 @@
    To display the power of Git and Github.
 
 ## Deployment
-   Once repositeries are ready!
+   Once repositeries are ready!!
 
 ## How to Contribute
    By adding personalized recommendations.
