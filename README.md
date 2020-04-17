@@ -14,4 +14,4 @@
    Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
-   Copyright @2020 to Git Training
+   Copyright @2020 to Git Training  ALl rights reserved.
